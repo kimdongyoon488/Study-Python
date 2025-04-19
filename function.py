@@ -6,7 +6,7 @@ def print_2_dan():
         print(f"{dan} * {i} = {dan * i}")
         i += 1
 
-print_2_dan();
+print_2_dan()
 
 
 #매개변수
@@ -16,4 +16,4 @@ def print_dan(dan):
        print("{} *  {}".format(dan, i, dan * i))
        i += 1
 
-print_dan(2);
+print_dan(2)
